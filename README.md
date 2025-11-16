@@ -8,13 +8,3 @@ For addition, use +. For subtraction, use -.
 For cosine use cos, for sine use sin, for tangent use tan. 
 In between the coefficient and variable please put a *.
 
-# Stay connected to me:
-
--SolarX- on scratch
-
-FireForceX on replit
-
-FireForceX on github
-
-solar_48970 on discord
-
